@@ -1,0 +1,1 @@
+Livro.create(nome: "Harry Potter e a pedra filosofal", autxr: "JK Rowling", genero: "Fantasia")
